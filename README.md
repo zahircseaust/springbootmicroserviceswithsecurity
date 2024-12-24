@@ -297,8 +297,3 @@ https://hub.docker.com/repository/docker/noyandocker/springbootmicroserviceswith
     <p> Figure 16 </p>
     <img src ="screenshots/3_delete_product_by_admin.PNG">
 </details>
-
-
-### Contributors
-
-- [Sercan Noyan Germiyanoğlu](https://github.com/Rapter1990)
